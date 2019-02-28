@@ -9,9 +9,9 @@
     tools:showIn="@layout/activity_main">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="251dp"
         android:layout_height="64dp"
-        android:text="You only live once !"
+        android:text="YOLO"
         android:textColor="@android:color/holo_red_light"
         android:textSize="36sp"
         app:fontFamily="cursive"
@@ -37,7 +37,7 @@
         android:id="@+id/button2"
         android:layout_width="128dp"
         android:layout_height="120dp"
-        android:text="Whats up ?"
+        android:text="hi"
         tools:layout_editor_absoluteX="130dp"
         tools:layout_editor_absoluteY="50dp" />
 
