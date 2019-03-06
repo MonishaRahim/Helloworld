@@ -37,7 +37,7 @@
         android:id="@+id/button2"
         android:layout_width="297dp"
         android:layout_height="137dp"
-        android:text="happy morning"
+        android:text="good af"
         tools:layout_editor_absoluteX="54dp"
         tools:layout_editor_absoluteY="29dp" />
 
