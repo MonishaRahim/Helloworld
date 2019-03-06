@@ -31,7 +31,7 @@
         android:textSize="18sp"
         android:typeface="monospace"
         tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="327dp" />
+        tools:layout_editor_absoluteY="343dp" />
 
     <Button
         android:id="@+id/button2"
