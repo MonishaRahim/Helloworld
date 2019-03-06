@@ -35,10 +35,10 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="128dp"
-        android:layout_height="120dp"
-        android:text="hi"
-        tools:layout_editor_absoluteX="130dp"
+        android:layout_width="297dp"
+        android:layout_height="137dp"
+        android:text="happy morning"
+        tools:layout_editor_absoluteX="51dp"
         tools:layout_editor_absoluteY="50dp" />
 
 </android.support.constraint.ConstraintLayout>
