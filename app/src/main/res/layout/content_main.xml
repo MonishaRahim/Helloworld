@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="251dp"
         android:layout_height="64dp"
-        android:text=" heeeeehaaawww"
+        android:text="hahhahahahhahahah"
         android:textColor="@android:color/holo_red_light"
         android:textSize="36sp"
         app:fontFamily="cursive"
